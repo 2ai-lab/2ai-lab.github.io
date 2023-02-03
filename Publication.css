@@ -5,11 +5,16 @@
 .u-section-1 .u-text-1 {
   margin-bottom: 0;
 }.u-section-2 .u-sheet-1 {
-  min-height: 2170px;
+  min-height: 5175px;
 }
 
 .u-section-2 .u-text-1 {
   margin-bottom: 0;
-}.u-section-3 .u-sheet-1 {
-  min-height: 435px;
+  margin-top: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
+  }
 }
