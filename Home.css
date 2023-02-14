@@ -617,6 +617,7 @@
 .u-section-4 .u-image-7 {
   min-height: 316px;
   background-image: url("images/book-covid2.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-7 {
@@ -626,6 +627,7 @@
 .u-section-4 .u-image-8 {
   min-height: 316px;
   background-image: url("images/book-doc.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-8 {
@@ -694,12 +696,10 @@
   }
 
   .u-section-4 .u-image-7 {
-    background-position: 50% 50%;
     min-height: 261px;
   }
 
   .u-section-4 .u-image-8 {
-    background-position: 50% 50%;
     min-height: 261px;
   }
 
